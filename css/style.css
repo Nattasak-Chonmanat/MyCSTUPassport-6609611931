@@ -27,8 +27,9 @@ body {
 
     .contain-adv {
       flex-direction: column;
+      align-content: center;
       justify-content: center;
-      align-items: center;
+      margin-right: 12%;
     }
     .advisor-box {
       margin-bottom: 5%;
